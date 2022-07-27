@@ -9,3 +9,4 @@
 ### Encontros
 
 - [x] Fundamentos: dados, dados, em todos
+- [ ] Fazer perguntas para tomar decisões
